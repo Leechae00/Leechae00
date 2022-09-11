@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=CHAEYEONG%20&fontSize=90)
-![GitHub stats](https://github-readme-stats.vercel.app/api?&color=gradient&username=Leechae00&theme=buefy&show_icons=true&height=400&descAlignY=60)
+![GitHub stats](https://github-readme-stats.vercel.app/api?&descAlignY=60&color=gradient&username=Leechae00&theme=buefy&show_icons=true&height=400)
 
 ##
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Leechae00)
