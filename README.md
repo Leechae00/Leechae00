@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=CHAEYEONG_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=CHAEYEONG_&animation=fadeIn)
 ![solved.ac stats](https://github-readme-solvedac.vercel.app/api/?handle=mirr0615)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leechae00&theme=buefy&show_icons=true)
 
