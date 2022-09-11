@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=CHAEYEONG&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&%20render&fontSize=90)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?&color=gradient&username=Leechae00&theme=buefy&show_icons=true&height=400)
 
 ![solved.ac stats](https://github-readme-solvedac.vercel.app/api/?handle=mirr0615)
