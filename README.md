@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Leechae00&theme=buefy&show_icons=true)
 ![solved.ac stats](https://github-readme-solvedac.vercel.app/api/?handle=mirr0615)
 
