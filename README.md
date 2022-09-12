@@ -7,7 +7,7 @@
 
 #
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Leechae00/JAVA)
-<img src="https://img.shields.io/badge/square&logo=C&logoColor=white"/>
+[![C](https://img.shields.io/badge/C-FABDBD?style=flat-square&logo=C&logoColor=WHITE)](github.com/Leechae00/BOJ)
 </div>
 
 
