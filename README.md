@@ -6,7 +6,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leechae00&layout=compact&theme=buefy)
 
 #
-[![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Leechae00/JAVA)
+[![JS](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](github.com/Leechae00/JAVA)
 [![C](https://img.shields.io/badge/C-FABDBD?style=flat-square&logo=C&logoColor=WHITE)](github.com/Leechae00/BOJ)
 </div>
 
