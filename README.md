@@ -4,6 +4,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?&descAlign=60&color=gradient&username=Leechae00&theme=buefy&show_icons=true&height=400) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leechae00&layout=compact&theme=buefy)
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=mirr0615)](https://solved.ac/mirr0615/)
 
 #
 [![JS](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](github.com/Leechae00/JAVA)
