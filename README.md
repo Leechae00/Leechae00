@@ -8,7 +8,7 @@
 #
 [![JS](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](github.com/Leechae00/JAVA)
 [![C](https://img.shields.io/badge/C-FABDBD?style=flat-square&logo=C&logoColor=WHITE)](github.com/Leechae00/BOJ)
-[![c#](https://img.shields.io/badge/C-F3BEBD?style=flat-square&logo=C#&logoColor=WHITE)](github.com/Leechae00/BOJ)
+[![c#](https://img.shields.io/badge/C#-8977AD?style=flat-square&logo=C#&logoColor=WHITE)](github.com/Leechae00/BOJ)
 </div>
 
 
