@@ -10,6 +10,9 @@
 [![JS](https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=black)](github.com/Leechae00/JAVA)
 [![C](https://img.shields.io/badge/C-FABDBD?style=flat-square&logo=C&logoColor=WHITE)](github.com/Leechae00/BOJ)
 [![C#](https://img.shields.io/badge/C-FF69B4?style=flat-square&logo=C#&logoColor=WHITE)](github.com/Leechae00/BOJ)
+ 
+#
+<a href="https://www.instagram.com/cxx_002/" target="_blank"><img src="https://img.shields.io/badge/FF69B4?style=square&logo=instagram&logoColor=WHITE"/></a>
   
 </div>
 
