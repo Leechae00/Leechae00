@@ -12,7 +12,7 @@
 [![C#](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Photoshop&logoColor=WHITE)](github.com/Leechae00/BOJ)
  
 #
-<a href="https://www.instagram.com/cxx_002" target="_new"><img src="https://img.shields.io/badge/instagram-ffffff?style=square&logo=instagram&logoColor=WHITE"/></a>
+<a href="https://www.instagram.com/cxx_002" target="_new"><img src="https://img.shields.io/badge/instagram-ffffff?style=square&logo=instagram&logoColor=White"/></a>
   
 </div>
 
