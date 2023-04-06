@@ -18,7 +18,9 @@
 [![C](https://img.shields.io/badge/C-FABDBD?style=flat-square&logo=C&logoColor=ffffff)](https://github.com/Leechae00/HonGong_C)
 <a href="https://github.com/Leechae00" target="_new"><img src="https://img.shields.io/badge/Photoshop-9999FF?style=square&logo=Adobe Photoshop&logoColor=ffffff"/></a>
 <a href="https://github.com/Leechae00" target="_new"><img src="https://img.shields.io/badge/PremierePro-31A8FF?style=square&logo=Adobe Premiere Pro&logoColor=ffffff"/></a>
+  <a href="https://github.com/Leechae00" target="_new"><img src="https://img.shields.io/badge/Visual Studio-0067?style=square&logo=Visual Studio&logoColor=ffffff"/></a>
 <a href="https://github.com/Leechae00" target="_new"><img src="https://img.shields.io/badge/After Effects-000B1D?style=square&logo=Adobe After Effects&logoColor=ffffff"/></a>
+
 
 #
 
